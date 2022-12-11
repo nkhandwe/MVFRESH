@@ -1,0 +1,23 @@
+{
+    "name": "MV FRESH",
+    "short_name": "MV FRESH",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#018B01",
+    "theme_color": "#018B01",
+    "description": "A Multi-vendor Food. Grocery, eCommerce, Pharmacy & Parcel service.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
