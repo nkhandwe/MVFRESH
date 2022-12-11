@@ -268,9 +268,7 @@ class _SignInScreenState extends State<SignInScreen> {
                             ])
                           : Center(child: CircularProgressIndicator()),
                       SizedBox(height: 30),
-
                       SocialLoginWidget(),
-
                       GuestButton(),
                       SizedBox(
                         height: 20,
