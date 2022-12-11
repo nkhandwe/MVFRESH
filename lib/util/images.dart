@@ -2,7 +2,7 @@ class Images {
   static const String logo = 'assets/image/logo.png';
   static const String placeholder = 'assets/image/placeholder.jpg';
   static const String notification_placeholder = 'assets/image/notification_placeholder.jpg';
-  static const String arabic = 'assets/image/arabic.png';
+  static const String hindi = 'assets/image/hindi.png';
   static const String call = 'assets/image/call.png';
   static const String checked = 'assets/image/checked.png';
   static const String english = 'assets/image/english.png';
